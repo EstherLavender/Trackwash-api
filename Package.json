@@ -1,0 +1,16 @@
+{
+  "name": "trackwash-api",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Server.js",
+    "dev": "node Server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
